@@ -2,6 +2,6 @@
 
 int main( void ){
    int b;
-   int c;
+   int a;
    return 0;
 }
